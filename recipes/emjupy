@@ -1,0 +1,1 @@
+(emjupy :repo "mathren/emjupy" :fetcher github)
